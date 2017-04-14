@@ -1,0 +1,36 @@
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\obj\Debug\ReadMe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\ReadMe.Tests.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\ReadMe.Tests.pdb
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\ReadMe.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\Domain Logic.exe
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\EntityFramework.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\ReadMe.pdb
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\Domain Logic.pdb
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\EntityFramework.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\obj\Debug\ReadMe.Tests.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe.Tests\obj\Debug\ReadMe.Tests.pdb

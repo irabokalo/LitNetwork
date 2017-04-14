@@ -3,7 +3,7 @@ using Domain_Logic.Entities;
 
 namespace Domain_Logic.Concrete
 {
-    class UsersPostContext: DbContext
+    public class UsersPostContext: DbContext
     {
         public UsersPostContext(): base("UsersPostDb") 
         {

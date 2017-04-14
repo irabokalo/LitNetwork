@@ -7,16 +7,15 @@ using Domain_Logic.Interfaces;
 
 namespace Domain_Logic.Concrete
 {
-    class UserRepository:IUserRepository
+    public class UserRepository : IUserRepository
     {
         private UsersPostContext context;
         private bool disposed = false;
 
         public UserRepository(UsersPostContext context)
-       {
-           this.context = context;
-       }
-    
+        {
+            this.context = context;
+        }
 
         public void Dispose(bool disposing)
         {

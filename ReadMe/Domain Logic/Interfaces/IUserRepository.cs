@@ -4,7 +4,7 @@ using Domain_Logic.Entities;
 
 namespace Domain_Logic.Interfaces
 {
-    interface IUserRepository:IDisposable
+    public interface IUserRepository:IDisposable
     {
         IEnumerable<User> GetUsers();
         User GetUserById(int userId);

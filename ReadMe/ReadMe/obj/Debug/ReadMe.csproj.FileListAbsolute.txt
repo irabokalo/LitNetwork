@@ -44,3 +44,9 @@ C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\bin\System.Web.Mvc.xml
 C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\obj\Debug\ReadMe.csprojResolveAssemblyReference.cache
 C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\obj\Debug\ReadMe.dll
 C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\obj\Debug\ReadMe.pdb
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\bin\EntityFramework.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\bin\EntityFramework.SqlServer.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\bin\Domain Logic.pdb
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\bin\EntityFramework.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\bin\EntityFramework.SqlServer.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\ReadMe\bin\Domain Logic.dll
