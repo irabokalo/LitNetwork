@@ -1,9 +1,6 @@
 ﻿using System.Web.Mvc;
 using Domain_Logic.Concrete;
-using Domain_Logic.Entities;
 using Domain_Logic.Interfaces;
-using UserD = Domain_Logic.Entities.User;
-using UserR = ReadMe.Models.User;
 
 
 namespace ReadMe.Controllers
@@ -22,10 +19,5 @@ namespace ReadMe.Controllers
             this.userRepository = userRepository;
         }
 
-        public ActionResult UserProfile()
-        {
-            userRepository.InsertUser(new UserD() {FirstName =  "ira",LastName = "bokalo"});
-            return View(new [] { new UserD() { FirstName = "ira", LastName = "bokalo" }});
-        }
     }
 }

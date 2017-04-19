@@ -7,3 +7,8 @@ C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\obj\Debug\Domain 
 C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\bin\Debug\Domain Logic.dll.config
 C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\bin\Debug\Domain Logic.dll
 C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\obj\Debug\Domain Logic.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\bin\Debug\Ninject.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\bin\Debug\Ninject.Web.Common.dll
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\bin\Debug\Ninject.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\bin\Debug\Ninject.Web.Common.xml
+C:\Users\iryna.bokalo\Documents\LitNetwork\ReadMe\Domain Logic\obj\Debug\Domain Logic.csprojResolveAssemblyReference.cache
